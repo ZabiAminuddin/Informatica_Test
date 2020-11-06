@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 	@SpringBootApplication annotation will perform EnableAutoConfiguration, configuration and componentscan
  */
 @SpringBootApplication
-public class DemoApplication {
+public class InformaticaTest {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(InformaticaTest.class, args);
 	}
 
 }
